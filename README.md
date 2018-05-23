@@ -17,6 +17,8 @@
 
 </table>
 
+## What Is The SIP Calculation?
+
 ## Description
 <br>
 SIP Calculation calculates the future value of SIP (Systematic Investment Plan) payments.
@@ -33,7 +35,7 @@ tell: +60133569809
 
 ## Author
 
-[@Richard Lee]
+[@WeeMaggie]
 
 
 
