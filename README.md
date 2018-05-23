@@ -14,14 +14,12 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="http://i.imgur.com/fXB42iY.png"> </td>
-<td> <img src="http://i.imgur.com/oiV55gW.png"> </td>
-<td> <img src="http://i.imgur.com/MgpfvQU.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/WeeMaggie/SIP-Calculation/master/image/11.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/WeeMaggie/SIP-Calculation/master/image/22.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/WeeMaggie/SIP-Calculation/master/image/33.JPG"> </td>
 </tr>
 
 <tr>
-<td> <img src="http://i.imgur.com/EMGOw0g.png"> </td>
-<td> <img src="http://i.imgur.com/gD45NYH.png"> </td>
 </tr>
 
 
